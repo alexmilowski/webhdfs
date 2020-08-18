@@ -17,7 +17,7 @@ The command-line client can be run by:
 python -m pyox
 ```
 
-Currently, there are two commands supported:
+Currently, there are four commands supported:
 
  * `hdfs` - commands for interacting with WebHDFS
  * `oozie` - commands for interacting with the Oozie Service for scheduling jobs
